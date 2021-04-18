@@ -1,0 +1,7 @@
+python-engineio
+python-socketio
+six
+websocket-client
+requests
+aioconsole
+aiohttp
